@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hazal Usta
-- 👀 I’m interested in Web Development, mostly on the front-end and also data visualization. I use ReactJS and Python data visualization libraries!
+- 👀 I’m interested in Web Development, mostly on the front-end and also data visualization. I use React.js and Python data visualization libraries!
 - 💗 Also love spending time with my boy, fitness, hiking and archery🏹!
 - 🌱 I’m currently learning advanced React and Bootstrap!
 - 💞️ I’m looking to collaborate on Web Development and Data analysis/visualization projects.
